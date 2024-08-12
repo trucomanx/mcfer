@@ -1,5 +1,5 @@
 # MCFER
-    Multi-Class Face Emotion Recognition (MCFER) dataset. With 30916 images.
+Multi-Class Face Emotion Recognition (MCFER) dataset. With 30916 images.
     
 # Training dataset
 
